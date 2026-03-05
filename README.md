@@ -28,23 +28,5 @@ Data Engineer with 4+ years building enterprise-scale ETL pipelines and customer
 Looking for Data Engineering roles focused on Python, cloud technologies, and modern data infrastructure.
 ```
 
-**This shows up as your GitHub "homepage" - very professional.**
-
----
-
-## **Pinned Repositories**
-
-**Pin your campaign automation project:**
-
-1. Go to your GitHub profile
-2. Click "Customize your pins"
-3. Select your campaign automation repository
-4. This shows it prominently to visitors
-
----
-
-## **Repository Description**
-
-**For your campaign automation repo, add a short description:**
 ```
 Production-grade marketing automation platform - Data ingestion, rule engine, batch processing, multi-channel orchestration | Python, PostgreSQL, REST APIs
