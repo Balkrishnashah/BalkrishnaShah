@@ -31,7 +31,3 @@ Looking for Data Engineering roles focused on Python, AWS and modern data infras
 
 ### 📌 Featured Project
 [Campaign Automation Engine](https://github.com/Balkrishnashah/campaign-automation-engine) - Production-grade marketing automation platform with data ingestion, rule engine, batch processing, and multi-channel orchestration
-
-
-
-🎯 **Open to Data Engineering roles** focused on Python, cloud technologies, and modern data infrastructure
