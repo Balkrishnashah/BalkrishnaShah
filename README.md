@@ -2,16 +2,16 @@
 
 Data Engineer with 4+ years building enterprise-scale ETL pipelines and customer data platforms.
 
-### 🔧 Currently Working On
-- Transitioning from enterprise SAS development to modern Python/cloud data engineering
-- Building production-grade data platforms with Python, PostgreSQL, and APIs
-- Learning AWS cloud services for scalable data infrastructure
-
 ### 💼 Experience
 - 4+ years building data platforms processing 2M+ customer records daily
 - Enterprise ETL pipelines handling 30M+ events per batch
 - Led data migrations integrating 70+ tables across systems
 - Optimized workflows achieving 60% performance improvements
+
+- ### 🔧 Currently Working On
+- Transitioning from enterprise SAS development to modern Python/cloud data engineering
+- Building production-grade data platforms with Python, PostgreSQL, and APIs
+- Learning AWS cloud services for scalable data infrastructure
 
 ### 🛠️ Tech Stack
 **Languages:** Python, SQL, SAS  
@@ -20,7 +20,7 @@ Data Engineer with 4+ years building enterprise-scale ETL pipelines and customer
 **Currently Learning:** AWS (S3, EC2, RDS), Modern Data Stack
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 [LinkedIn](https://www.linkedin.com/in/balkrishna-shah-b6378b182/)
 - 📧 balkrishna.shah.job@gmail.com
 - 🌍 Mumbai, India
 
