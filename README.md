@@ -25,7 +25,7 @@ Data Engineer with 4+ years building enterprise-scale ETL pipelines and customer
 - 🌍 Mumbai, India
 
 ### 🎯 Open to Opportunities
-Looking for Data Engineering roles focused on Python, cloud technologies, and modern data infrastructure.
+Looking for Data Engineering roles focused on Python, AWS and modern data infrastructure fields like Martech, BFSI domain.
 ```
 
 ```
