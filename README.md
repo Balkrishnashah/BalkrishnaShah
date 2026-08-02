@@ -2,7 +2,7 @@
 
 I'm a **Data & AI Solutions Architect** with 5 years of experience designing and delivering AI and data platforms for BFSI and enterprise clients across India, UAE, Romania, and Malaysia.
 
-I specialise in translating complex business problems into working architectures — from solution design and FSD authorship through to production handover. Currently architecting a **Voice AI Monitoring Platform on GCP** and building agentic AI systems in my own time.
+I specialise in translating complex business problems into working architectures from solution design and FSD authorship through to production handover.
 
 ---
 
