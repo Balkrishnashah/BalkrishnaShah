@@ -1,33 +1,58 @@
 ## Hi, I'm Balkrishna 👋
 
-I am Data Engineer with extensive experience in building enterprise-scale ETL pipelines and customer data platforms in BFSI and campaign marketing automation domain.
+I'm a **Data & AI Solutions Architect** with 5 years of experience designing and delivering AI and data platforms for BFSI and enterprise clients across India, UAE, Romania, and Malaysia.
 
-### 💼 Experience
-- 5+ years building data platforms processing 30M+ customer records daily
-- Enterprise ETL pipelines handling 2M+ events per batch
-- Led data modeling process by integrating 70+ tables across systems 
-- Optimized workflows achieving 60% performance improvements
-- Designed and developed a complete end to end customer data platform for Banking clientel.
+I specialise in translating complex business problems into working architectures — from solution design and FSD authorship through to production handover. Currently architecting a **Voice AI Monitoring Platform on GCP** and building agentic AI systems in my own time.
 
-### 🔧 Currently Working On
-- Transitioning from enterprise SAS development to modern Python/cloud stack
-- Building production-grade data platforms with Python, PostgreSQL, and APIs
-- Learning AWS cloud services for scalable data infrastructure
-- Open to Data Engineering opportunities in modern tech environments
+---
+
+### 🤖 What I Build
+
+**Agentic AI Systems** — multi-agent pipelines that reason, decide, and act autonomously without human intervention.
+
+**Featured project → [Autopilot Content Creation Agent](https://github.com/Balkrishnashah/autopilot-content-creation-agent)**
+
+A fully autonomous agentic AI system with 5 specialized agents that discovers trending tech news, writes social media content, generates images, and publishes to Telegram daily — zero human involvement after setup.
+
+```
+Trend Scout → Content Planner → Writer → Visual Agent → Publisher
+     │                                                       │
+5 RSS Feeds                                        Telegram Channel
+```
+
+Built with Python · Groq (Llama 3) · Pollinations · Telegram Bot API · uv
+
+---
+
+### 💼 What I Do Professionally
+
+- **Solution Architecture** — FSD/HLD authorship, POC design, client-facing architecture walkthroughs
+- **Pre-Sales & Solutioning** — translating business requirements into technical proposals
+- **BFSI Domain** — marketing automation, CDP, campaign engines, large-scale data pipelines (30M+ records)
+- **Agentic AI** — designing systems where LLMs reason, use tools, and make autonomous decisions
+- **GCP** — active project on BigQuery, Pub/Sub, Cloud Functions, GCS
+
+---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, SQL, SAS  
-**Databases:** PostgreSQL, MySQL, Oracle  
-**Data Engineering:** ETL/ELT, Customer Data Platform, Batch Processing, Data Modeling, APIs  
-**Currently Learning:** AWS (S3, EC2, RDS), Modern Data Stack
 
-### 📫 Connect With Me
+**AI & Cloud:** GCP · Agentic AI · LLM Tool Use · MCP · Claude API · Groq  
+**Data & Integration:** SAS DI Studio · SAS CI360 · ETL Pipeline Design · Oracle · PostgreSQL · SFTP / API / Webhook  
+**Architecture:** Solution Design (FSD/HLD/BRD) · Data Platform Architecture · System Integration  
+**Languages:** Python · SQL  
+**Currently Learning:** LangGraph · GCP Professional Cloud Architect · Salesforce Marketing Cloud
+
+---
+
+### 🎯 Targeting
+
+Pre-Sales Solutions Engineer · Technical Solutions Consultant · Associate Solutions Architect  
+at AI-native product companies and consulting firms in the BFSI and MarTech space.
+
+---
+
+### 📫 Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/balkrishna-shah-b6378b182/)
 - 📧 balkrishna.shah.job@gmail.com
 - 🌍 Mumbai, India
-
-### 🎯 Open to Opportunities
-Looking for Data Engineering roles focused on Python, AWS and modern data infrastructure fields like Martech, BFSI domain.
-
-### 📌 Featured Project
-[Campaign Automation Engine](https://github.com/Balkrishnashah/campaign-automation-engine) - Production-grade marketing automation platform with data ingestion, rule engine, batch processing, and multi-channel orchestration
