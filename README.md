@@ -8,7 +8,7 @@ I specialise in translating complex business problems into working architectures
 
 ### 🤖 What I Build
 
-**Agentic AI Systems** — multi-agent pipelines that reason, decide, and act autonomously without human intervention.
+**Agentic AI Systems** → multi-agent pipelines that reason, decide, and act autonomously without human intervention.
 
 **Featured project → [Autopilot Content Creation Agent](https://github.com/Balkrishnashah/autopilot-content-creation-agent)**
 
@@ -26,11 +26,11 @@ Built with Python · Groq (Llama 3) · Pollinations · Telegram Bot API · uv
 
 ### 💼 What I Do Professionally
 
-- **Solution Architecture** — FSD/HLD authorship, POC design, client-facing architecture walkthroughs
-- **Pre-Sales & Solutioning** — translating business requirements into technical proposals
-- **BFSI Domain** — marketing automation, CDP, campaign engines, large-scale data pipelines (30M+ records)
-- **Agentic AI** — designing systems where LLMs reason, use tools, and make autonomous decisions
-- **GCP** — active project on BigQuery, Pub/Sub, Cloud Functions, GCS
+- **Solution Architecture**: FSD/HLD authorship, POC design, client-facing architecture walkthroughs
+- **Pre-Sales & Solutioning**: translating business requirements into technical proposals
+- **BFSI Domain**: marketing automation, CDP, campaign engines, large-scale data pipelines (30M+ records)
+- **Agentic AI**: designing systems where LLMs reason, use tools, and make autonomous decisions
+- **GCP**: active project on BigQuery, Pub/Sub, Cloud Functions, GCS
 
 ---
 
